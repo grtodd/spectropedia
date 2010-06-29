@@ -1,0 +1,361 @@
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned (duplex),Application,Comment
+900 MHz GSM,880 MHz - 960 MHz,No Spare capacity left,Cell - C,882.7 - 889.5 MHz // 927.7 - 934.5 MHz,2x11 MHz FDD,GSM 900 Mobile,E-GSM channels 988 - 1021
+,,,,904.3 - 905.7 MHz // 949.3 - 950.7 MHz,,,GSM900 channels 72 - 78
+,,,MTN,901.5 - 903.9 MHz // 946.5 - 948.9 MHz,2x11 MHz FDD,GSM 900 Mobile,GSM900 channels 58 - 69
+,,,,906.1 - 914.7 MHz // 951.1 - 959.7 MHz,,,GSM900 channels 81 - 123
+,,,Vodacom,890.1 - 901.1 MHz // 935.1 - 946.1 MHz,2x11 MHz FDD,GSM 900 Mobile,GSM900 channels 1 - 55
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned(duplex),Application,Comment
+1.3 -1.5 GHz shared duplex band with reserved channels,1350 - 1517 MHz,"No New assignments on ""old"" plan. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Armscor (ad hoc),,28x 2.2 MHz FDD,Defence Research: Mobile,"""Old"" 1.4 GHz band (due for migration)"
+,,,ATNS (ad hoc),,2x5 MHz FDD,Radar,"""Old"" 1.4 GHz band (due for migration)"
+,,,DENEL (ad hoc),,36x3.5 MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,Ekurhuleni Metro (ad hoc,,pending approval,Links,"""new"" 1.4 GHz band"
+,,,Eskom (national & ad hoc),,6x 500 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,Eskom (national & ad hoc),,2x 3.5 MHz FDD,,"""Old"" 1.4 GHz band (due for migration)"
+,,,National Research Foundation (ad hoc),,4x 250 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,Nelson Mandela Metro (ad hoc),,4x 500 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,SANDF (national)(simplex radar frequency),,10x 5 MHz Simplex,Mobile Search  Radar,"""Old"" 1.4 GHz band (due for migration)"
+,,,SANDF (national),,12x 1.75 MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,SANDF (national),,53x varying: Bandwidth varying from 0.6 - 0.9 MHz,Troposcatter links,"""Old"" 1.4 GHz band (due for migration)"
+,,,SAPS (national),,26x 500 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,SAPS (national),,14x 2 MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,SAPS (national),,10x 500 kHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,Startrack Communications,,2x 20 kHz,Mobile Satellite,Inmarsat band
+,,,Telewave (ad hoc),,2x 1MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,Telkom (national),,18x 1 MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,Telkom (national),,30x 500 kHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,Transtel (Transnet) (national),,6x 25 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,Transtel (Transnet) (national),,2x 500 kHz FDD,Links,"""new"" 1.4 GHz band"
+,,,Transtel (Transnet) (national),,14x 1.5 MHz FDD,Links,"""Old"" 1.4 GHz band (due for migration)"
+,,,X-Strata,,2x 500 kHz FDD,Links,"""new"" 1.4 GHz band"
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth available (SIMPLEX),Application,Comment
+1.5 GHz shared simplex band,1517 - 1525 MHz,"Yes, simplex radio channels are available. No assignments made",none,,140 x 25 kHz & 7 x 500 kHz channels available,destination band for migrating VHF/UHF links. E.g.Alarms,not utilised yet
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+1.5 GHz TDAB & SDAB only,1452 - 1479.5 MHz T/DAB & 1479.5 - 1492 MHz S/DAB,Yes. One assignment so far,Worldspace (national),,2 x 2.5 MHz simplex,Digital Audio Broadcasting: (Terrestrial & Space) , Deployment for audio broadcasting
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned(duplex),Application,Comment
+1.7/1.8 GHz,1710 - 1880 MHz,No Spare capacity,Vodacom (national),,2x 12 MHz FDD, GSM 1800,Fully utilised
+,,,MTN (national),,2x 12 MHz FDD, GSM 1800,Fully utilised
+,,,Cell C (national),,2x 12 MHz FDD, GSM 1800,Fully utilised
+,,,Neotel (national),,2x 12 MHz FDD,Fixed Data,Unknown utilisation
+,,,Telkom (national),,2x 12 MHz FDD,Fixed Data,Unknown utilisation
+,,,WBS (national),,2x 12 MHz FDD,Fixed Data,Unknown utilisation
+,,,WBS (national),,1x 10 MHz TDD block,Fixed Data,"Internet, iburst"
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+1.9 GHz DECT,1880 - 1900 MHz,No Spare capacity unless sharing study is done with national DECT network,Telkom (national),,1x 20 MHz TDD,DECT,Fully utilised
+,,,Bokone USAL Limpopo (regional),,1x 20 MHz TDD,Cor Dect Broadband,Complete details on deployment unavailable
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+1.9 GHz Extended DECT,1900 - 1920 MHz,No Spare capacity unless sharing study is done with national DECT network,Telkom (national),,1x 20 MHz TDD,Extended DECT,Apparently Fully utilised
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+2.0 GHz FS Band,2025 - 2110 MHz // 2200 - 2285 MHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",CSIR (ad hoc),,2 x 4.6 MHz simplex,Links,Satellite Tracking Links
+,,,Richardsbay Minerals (ad hoc),,2x 3.5 MHz,Links,"""Old"" plan (Mining operation)"
+,,,,,3x 7 MHz ,,"""Old plan"" (Omni operation)"
+,,,Transtel (Transnet) (national),,2x 28 MHz FDD,Links,"""Old 2GHz plan moved from 3G band (due for migration)"
+,,,SANDF (national),,2x 28 MHz FDD,Links,"""Old 2GHz plan moved from 3G band (due for migration)"
+,,,Telkom (ad hoc),,1x 28 MHz FDD,Links,"""Old 2GHz plan (due for migration)"
+,,,,,4x 3.5 MHz FDD,,"""new"" plan"""
+,,,Telsis (ad hoc) (military),,1x 28 MHz FDD,Links,"""Old 2GHz plan (due for migration)"
+,,,Mbombela Municipality,,4x 3.5 MHz FDD,Links,"""new"" plan"
+,,,Sumbandilasat,,1x 60 MHz,Downlink,Satellite Links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+1.9/2.1 GHz,1.900 - 1.920 GHz // 2.100 - 2.120 GHz,"Yes, 2x 10 MHz available pending re-shuffling of the band",Vodacom (national),,2x 15MHz FDD,3G Mobile/Data,3G
+,,,,,1x 5MHz TDD
+,,,MTN (national),,2x 15MHz FDD,3G Mobile/Data,3G
+,,,,,1x 5MHz TDD
+,,,Cell C (national),,2x 10MHz FDD,3G Mobile/Data,3G
+,,,,,1x 5MHz TDD
+,,,Telkom (national),,2x 10MHz FDD,3G Mobile/Data
+,,,Spare,,2x 10MHz FDD,3G Mobile/Data,2x non contiguous FDD blocks (2x 5MHz) open for another user or expansion
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+2.3/2.4 GHz,2.3 - 2.4 GHz,No Spare capacity left,Telkom (national),,34x 2 MHz FDD,Links,National backhaul links
+,,,Armscor (ad hoc),,1x2 MHz TDD,Links,Military Research
+,,,DENEL (ad hoc),,1x 0.01 MHz TDD,Links,Military Research
+,,,Eskom (national),,4x 3.5 MHz FDD,Links,National backhaul links
+,,,University Western Cape (ad hoc),,1x 30 MHz,Links,Spread Spectrum Links
+,,,SABC (national),,1x 28 MHz TDD,Outside Broadcasting Links,"OB video links at sporting, and other venues"
+,,,Dimension RF (national),,1x 28 MHz TDD,Outside Broadcasting Links,"OB video links at sporting, and other venues"
+,,,SAPS (national),,2x 28 MHz TDD,Mobile Video,Mobile helicopter video links
+,,,Ekurhuleni Metro (ad hoc),,1x 22 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Sedibeng District Municipality (ad hoc),,1x 22 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Highveld Racing Authority (ad hoc),,1x 28 MHz ,Links,Unknown if licensed
+,,,New Vaal Colliery (ad hoc),,1x 16 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Bell Equipment Company (ad hoc),,1x 10.5 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,City of Durban (ad hoc),,1x 30.7 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Kruger Park (ad hoc),,1x 83.5 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Pannar Seeds (ad hoc),,1x 83.5 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,President Steyn Mine (ad hoc),,1x 83.5 MHz TDD,Spread Spectrum,Unknown if licensed
+,,,Ilali Holdings,,1x 20 MHz TDD,Mine Safety,Unknown if licensed
+,,,East Coast Assist,,1x 30 MHz TDD,Marine Safety Buoy,Unknown if licensed
+,,,Transtel (Transnet) (national),,1x 3.5 MHz FDD,Links,National backhaul links
+*** This band is also used for ISM & Short Range Devices which are spectrum licence exempt. 2.3 GHz identified as IMT band
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+2.6 GHz,2500 - 2690 MHz,"Yes,125 Mhz available for assignment",Sentech (national),2500 - 2550 MHz,1x 50 MHz,Broadband,Band not finalised
+,,,WBS (iBurst) (national),2550 - 2565 MHz,1x 15 MHz,Broadband,Band not finalised
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+3.5 GHz,3400 - 3600 MHz,"Yes, 2x 14 MHz available for assignment",Sentech (national),,1x 14 MHz FDD,Broadband,Band not finalised
+,,,Neotel (national),,1x 28 MHz FDD,Broadband,Band not finalised
+,,,Telkom (national),,1x 28 MHz FDD,Broadband,Band not finalised
+,,,USAL (regional),,1x 14 MHz FDD,Broadband,Band not finalised
+,,,Spare,,1x 14 MHz FDD,Broadband,Band not finalised
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+"C-Band (satellite, lower ""leg"")",3.6 - 4.2 GHz,Yes. Spectrum is available for satellite services pending radio co-ordination with terrestrial services. New terrestrial links discouraged due to problematic radio co-ordination with satellite services and the nature of legacy analogue services.,Telkom (national),,1x 600 MHz FDD,Links,Terrestrial Backhaul as well as C-Band Satellite
+,,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",La Fontaine Restaurant (ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,Mc Gregor WC ( ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,Moag JS (ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,Molefe TG (ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,Scandurra S (ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,University of Cape Town (ad hoc),,?,VSAT,Legacy assignment from 1991
+,,,Anglo Platinum Management Services (ad hoc),,0.5 MHz,VSAT
+,,,Barrick Africa (ad hoc),,0.582 MHz,VSAT
+,,,Peoples Republic of China Embassies (ad hoc),,2.0017 MHz,VSAT
+,,,Council for Geoscience (ad hoc),,8 MHz,VSAT
+,,,CSIR (ad hoc),,600 MHz,Sat Tracking,Assistance to NASA
+,,,CTBTO (ad hoc),,0.624 MHz,VSAT
+,,,Globecast SA (ad hoc),,9 MHz,Sat downlink
+,,,Impala Platinum Holdings (ad hoc),,0.52 MHz,VSAT
+,,,JICA (ad hoc),,0.38 MHz,VSAT
+,,,Multichoice (ad hoc),,3 MHz,Sat downlink 
+,,,NECSA (ad hoc),,3.2 MHz,VSAT
+,,,Neotel (ad hoc),,10.29958 MHz,VSATs
+,,,Orbicom (national),,471.6985 MHz,Sat downlinks
+,,,SA Trade Mission (ad hoc),,2.6 MHz,VSAT
+,,,SANDF (ad hoc),,380 MHz,Sat downlinks
+,,,Transtel (Transnet) (ad hoc),,3.9422 MHz,VSAT
+,,,UN World Food Program (ad hoc),,0.275 MHz,VSAT
+,,,Verizon Business (ad hoc),,1.8 MHz,VSAT
+,,,Vodacom (ad hoc),,7.77 MHz,VSAT
+,,,WBS (ad hoc),,148.02,VSAT
+,,,Weather Bureau (ad hoc),,0.023 MHz,VSAT
+,,,Worldbank ad hoc),,18 MHz,VSAT
+,,,Worldcom Solutions (ad hoc),,2.222,VSAT
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+4.4 - 5.0 GHz Outside Broadcasting,4400 - 4490 MHz & 4690 - 4800 MHz,,Telemedia (national),,4x 10 MHz TDD,Outside Broadcasting Links,Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. ,, 
+,,,Airtime SABC (national),,5x 10 MHz TDD,Outside Broadcasting Links,Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. 
+,,,MNet (national),,2x 10 MHz TDD,Outside Broadcasting Links,Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. 
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+4.4 - 5.0 GHz SANDF&SAPS,4490 - 4684 MHz & 4800 - 5000 MHz,"Yes. Spectrum is available to SANDF & SAPS on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",SANDF (ad hoc),,4x 28 MHz FDD,Links,Backhaul for Air Defence Network & Monitoring Civil Aviation Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.
+,,,SAPS (ad hoc),,3x 28 MHz FDD,Links,Backhaul National TETRA Network. Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.
+,,,SAPS (national),,4x 10 MHz TDD,Aeronautical Mobile Video,Crime Scene Monitoring. Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+"C-Band (satellite, upper ""leg"")",5.85-6.725 GHz,Yes. Spectrum is available for satellite services pending radio co-ordination with terrestrial services. New terrestrial links discouraged due to problematic radio co-ordination with satellite services and the nature of legacy analogue services.,WBS (ad hoc),,20 MHz TDD,Links,5875 - 5895 MHz
+,,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Anglo Platinum Management Services (ad hoc),,0.5 MHz,VSAT
+,,,Barrick Africa (ad hoc),,0.592 MHz,VSAT
+,,,Peoples Republic of China Embassies (ad hoc),,0.27 MHz,VSAT
+,,,Council for Geoscience (ad hoc),,1.0 MHz,VSAT
+,,,CSIR (ad hoc),,2.4 GHz,Sat Tracking,Assistance to NASA
+,,,CTBTO (ad hoc),,0.684 MHz,VSAT
+,,,Embassy Slovac Republic (ad hoc),,0.1 MHz,VSAT
+,,,Globecast SA (ad hoc),,18 MHz,Sat uplink
+,,,Impala Platinum Holdings (ad hoc),,0.52 MHz,VSAT
+,,,Infovan,,30 MHz,Links,PtP
+,,,JICA (ad hoc),,0.3 MHz,VSAT
+,,,Mitsol,,15 MHz TDD,Links,PtP
+,,,Multichoice (ad hoc),,3 MHz,VSAT
+,,,NECSA (ad hoc),,0.4 MHz,VSAT
+,,,Neotel (ad hoc),,10.46868 MHz,VSAT
+,,,Orbicom (national),,501.6985,Sat uplink
+,,,SA Trade Mission (ad hoc),,2.6 MHz,VSAT
+,,,SANDF (ad hoc),,380 MHz,VSAT
+,,,Sentech (ad hoc),,8.02 MHz,VSAT
+,,,Telkom (national),,575 MHz,VSAT
+,,,Transtel (ad hoc),,3965.4 MHz,VSAT
+,,,UN World Food Program (ad hoc),,0.275 MHz,VSAT
+,,,Urban Brew Studios (ad hoc),,9 MHz,VSAT
+,,,Vodacom (ad hoc),,5.2 MHz,VSAT
+,,,WBS (ad hoc),,4.018 MHz,VSAT
+,,,Verizon Business (ad hoc),,5.6 MHz,VSAT
+,,,Weather Bureau (ad hoc),,0.023 MHz,VSAT
+,,,Worldbank ad hoc),,18 MHz,VSAT
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+6.0 GHz lower analogue,5.9452 - 6.40479 GHz,No. Analogue legacy band assigned to Telkom,Telkom (national),,8x 29.65 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+6.0 GHz upper interleaved,6.440 - 7.080 GHz,No. Analogue legacy band assigned to Telkom,Telkom (national),,16x 20 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+6.0 GHz upper normal,6.460 - 7.080 GHz,No. Analogue legacy band assigned to Telkom,Telkom (national),,8x 40 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+7.0 GHz lower,7.121 - 7.429 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Eskom (ad hoc),,4x 28 MHz FDD,Links,High capacity backhaul links
+,,,Karsten Farms (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Platitel (USAL) (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Neotel (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,SANDF (ad hoc),,11x 28 MHz FDD,Links,High capacity backhaul links
+,,,Telkom (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Telfree (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Richardsbay Minerals (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Vodacom (ad hoc),,8x 28 MHz FDD,Links,High capacity backhaul links
+,,,Emid,,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Screamer Telecommunications,,3x 28 MHz FDD,Links,High capacity backhaul links
+,,,Sentech (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,MTN (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Weather Bureau (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,SABC (ad hoc),,3x 28 MHz FDD,Links,High capacity backhaul links
+,,,Dimension RF (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+"7.0 GHz ""old"" analogue",7.435048 - 7.703282 GHz,No. Analogue legacy band assigned to Telkom. To be vacated as operational old analogue equipment is replaced with normal digital lower & upper 7 GHz,Telkom (national),,6x 23.324 MHz FDD,Links,High capacity backhaul links
+,,,Weather Bureau (ad hoc),,2x 25 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+7.0 GHz upper,7.457 - 7.737 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",SANDF (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Telkom (ad hoc),,5x 28 MHz FDD,Links,High capacity backhaul links
+,,,Vodacom (ad hoc),,10x 28 MHz FDD,Links,High capacity backhaul links
+,,,Amatole (USAL) (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Stellenbosch University (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+8.0 GHz lower analogue,7.7477 - 8.26657 GHz,"No. Analogue legacy band assigned to Telkom, SAPS, SANDF & Transtel.",Eskom (ad hoc),,2x 29.65 MHz FDD,Links,High capacity backhaul links
+,,,SANDF (ad hoc),,4x 29.65 MHz FDD,Links,High capacity backhaul links
+,,,Broadband Infraco,,2x 29.65 MHz FDD,Links,High capacity backhaul links
+,,,Transtel (ad hoc),,4x 29.65 MHz FDD,Links,High capacity backhaul links
+,,,Vodacom (ad hoc),,2x 29.65 MHz FDD,Links,High capacity backhaul links
+,,,SAPS (ad hoc),,1x 29.65 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+8.0 GHz upper,8.286 - 8.489 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",City of Cape Town (ad hoc),,2x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,CSIR (ad hoc),,1x 20 MHz,Links,assigned 1975 unknown use
+,,,Eskom (ad hoc),,6x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,MTN (ad hoc),,1x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,N.I.T.R.(ad hoc),,1x 20 MHz,Links,assigned 1975 unknown use
+,,,Phalabora Mining Company (ad hoc),,1x 12 MHz ,Links,assigned 1978 unknown use
+,,,Richardsbay Minerals (ad hoc),,1x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,SANDF (ad hoc),,3x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,SAPS (ad hoc),,3x 7 MHz FDD,Links,Medium capacity backhaul links
+,,,Transtel (ad hoc),,4x & MHz FDD,Links,Medium capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+10 GHz,10.150 - 10.300 // 10.50 - 10.650 GHz,No. All assigned,MTN (national),,1x 28 MHz FDD,Links,"PtP & PtMP, band is subdivisible into smaller channels"
+,,,Cell C (national),,1x 28 MHz FDD,Links,"PtP & PtMP, band is subdivisible into smaller channels"
+,,,Neotel (national),,1x 28 MHz FDD,Links,"PtP & PtMP, band is subdivisible into smaller channels"
+,,,Sentech (national),,1x 28 MHz FDD,Links,"PtP & PtMP, band is subdivisible into smaller channels"
+,,,WBS (national),,1x 28 MHz FDD,Links,"PtP & PtMP, band is subdivisible into smaller channels"
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+10.7 - 15.0 GHz Ku Band,10.7 - 14.5 GHz ,Yes. Spectrum is available for satellite services.,Africa Business News CNBC (ad hoc),,9 MHz,SNG/ENG/VSAT,none
+,,,African Bank (ad hoc),,1.37 MHz,VSAT, 
+,,,Al Jazeera Network (ad hoc),,6 MHz,SNG/ENG/VSAT, 
+,,,APTN (ad hoc),,18 MHz,SNG/ENG/VSAT
+,,,British Telecomms (ad hoc),,9 MHz,SNG/ENG/VSAT, 
+,,,Citrine Communications (ad hoc),,8x 30 MHz,Feeder link
+,,,CNN (ad hoc),,18 MHz,SNG/ENG/VSAT, 
+,,,CSIR (ad hoc),,6.2 MHz,Telemetry Tracking & Command
+,,,Dimension Television (ad hoc),,9 MHz,SNG/ENG/VSAT,  
+,,,Embassy of Angola (ad hoc),,unknown,VSAT, 
+,,,Eskom (ad hoc),,0.392 MHz,VSAT,  
+,,,Exficor SA (ad hoc),,0.128 MHz,VSAT
+,,,Globecast South Africa (ad hoc),,562.695 MHz,SNG/ENG/VSAT,  
+,,,Intelsat (ad hoc),,2.1504 MHz,SNG,  
+,,,Mentor Facility (ad hoc),,112 MHz,SNG/ENG/VSAT,  
+,,,Multichoice (ad hoc),,1465.12 MHz,Feeder links
+,,,Neotel (ad hoc),,31.04496 MHz,VSAT,  
+,,,NH van der Westhuizen (ad hoc),,9 MHz,SNG,  
+,,,On Digital Media (ad hoc),,108 MHz,Feeder links,   
+,,,Orbicom (ad hoc),,476 MHz,Feeder links,  
+,,,Purple Turtle (ad hoc),,4.4 MHz,SNG/ENG/VSAT
+,,,SAAB Grintek (ad hoc),,0.8 MHz,VSAT
+,,,SABC (ad hoc),,60 MHz,SNG/ENG/VSAT
+,,,Scandurra S (ad hoc),,360 MHz,?,    
+,,,Sentech (ad hoc),,532.7 MHz,Feeder Links,    
+,,,Siemens (ad hoc),,6.62 MHz,VSAT,      
+,,,Vodacom (ad hoc),,varying BW,VSAT,  
+,,,Telemedia (ad hoc),,684 MHz,Feeder links,   
+Frequency Band,Frequency Band Size,Availability,Licensee,,Ch Bandwidth assigned,Application,Comment
+11 GHz FS band,10.7 - 11.7 GHz,Yes. Provided new links can be radio co-ordinated with terrestrial & satellite services,Telkom,,12X 40 MHz FDD,Links,High capacity backhaul links
+,,,MTN,,2x 40 MHz FDD,Links,High capacity backhaul links
+
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+13 GHz,12.75 - 13.25 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Telkom (ad hoc),,8x 28 MHz FDD,Links,High capacity backhaul links
+,,,Broadband Infraco (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Eskom (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Stellenbosch University (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,Amatole Telecomms (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Liberty Lane (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,MTN (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Pretoria City Council (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,SABC (ad hoc),,1x 28 MHz FDD,Links,High capacity backhaul links
+,,,SANDF (ad hoc),,2x 28 MHz FDD,Links,High capacity backhaul links
+,,,Sentech (ad hoc),,5x 28 MHz FDD,Links,High capacity backhaul links
+,,,Transtel (ad hoc),,5x 28 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned (duplex),Application,Comment
+15 GHz FS shared band (including reserved channels),14.50 - 15.35GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Eskom (national & ad hoc),,3x 28 MHz FDD,Links,"""Old & new"" plan"
+,,,,,or 8x14 MHz FDD,,"""new"" plan"
+,,,,,or 16x 7 MHz FDD,,""""
+,,,WBS (national & ad hoc)),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,MTN (national & ad hoc),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,Vodacom (national),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,,,or 2x 14 MHz FDD,,""""
+,,,,,or 4x 7 MHz FDD,,""""
+,,,Vodacom (ad hoc),,1x 28 MHz FDD,Links,""""
+,,,,,or2x 14 MHz FDD,,""""
+,,,,,or 4x 7 MHz FDD,,""""
+,,,Transtel (national),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,,,or2x 14 MHz FDD,,""""
+,,,,,or 4x 7 MHz FDD,,""""
+,,,Tshwane University of Technology (ad hoc),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,Cell-C (national),,1x 28 MHz FDD,Links,"""new"" plan"
+,,,Mweb (ad hoc),,2x 14 MHz FDD,Links pending,"""new"" plan"
+,,,SASOL (ad hoc),,4x 7 MHz FDD,Links pending,"""new"" plan"
+,,,SANDF (ad hoc),,2x 7 MHz FDD,Links,"""new"" plan"
+,,,City of Johannesburg (ad hoc),,4x 14 MHz FDD,Links,"""new"" plan"
+,,,Rustenburg Platinum Mines (ad hoc),,2x 7 MHz FDD,Links,"""new"" plan"
+,,,Neotel (national),,2x 28 MHz FDD,Links,"""new"" plan"
+,,,Telemedia (ad hoc),,1x 28 MHz FDD,OB,"""Old "" plan"
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+18 GHz ,17.7 GHz - 19.7 GHz,"Yes. National legacy band for Telkom. Although difficult, spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Telkom (national),,17x 55 MHz FDD or 34x 27.5 MHz FDD or 131x 7.5 MHz FDD,Links,High capacity backhaul links
+,,,Vodacom (ad hoc),,4x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,Nelson Mandela Metro (ad hoc),,1x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,Joburg Metro (ad hoc),,1x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,Ekurhuleni Metro (ad hoc),,1x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,Boksburg City Council (ad hoc),,1x 7.5 MHz FDD,Links,High capacity backhaul links
+,,,Orbicom (ad hoc),,2x 33 MHz ,Sat feeder link,Uplink
+,,,MTN (ad hoc),,1x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,Anglo Operations Limited (ad hoc),,2x 27.5 MHz FDD,Links,High capacity backhaul links
+,,,De Beers (ad hoc),,2x 55 MHz FDD,Links,High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+23 GHz,21.2 - 23.6 GHz,"Yes. Some spectrum is legacy exclusive, but spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Transtel (national),,Subband 1a &1b,Links PtP,Medium & High capacity backhaul links
+,,,Telkom (national),,"Subband 2, 3, 7, & 9",Links PtP,Medium & High capacity backhaul links (subdivided in 10x subbands)
+,,,ATNS (ad hoc),,1x 3.5 MHz FDD,Links PtP,"Low, capacity backhaul links"
+,,,Eskom (national & ad hoc),,Subband 4 & 8,Links PtP,"low, Medium & High capacity backhaul links"
+,,,Telewave (ad hoc),,1x 28 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Vaalreefs (ad hoc),,1x 3.5 MHz FDD & 1x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Iscor (ad hoc),,1x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Richardsbay Minerals (ad hoc),,6x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Boksburg City Council (ad hoc),,1x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,MWeb (ad hoc),,2x 14 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Rand Water (ad hoc),,1x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,BMW of SA (ad hoc),,1x 14 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Pretoria City Council (ad hoc),,2x 14 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,SAPS (ad hoc),,2x 14 MHz FDD & 1x 28 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,SASOL (ad hoc),,2x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,City of Cape Town (ad hoc),,1x 7 MHz FDD & 1x 14 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Amatole Telecomms (ad hoc),,3x 28 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Highveld Racing (ad hoc),,1x 28 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,SANDF (ad hoc),,2x 14 MHz FDD or 9x 7 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,MTN (ad hoc),,1x 28 MHz FDD,Links PtP,Medium & High capacity backhaul links
+,,,Teleservice (ad hoc),,1x 28 MHz FDD,Links Ptp,Medium & High capacity backhaul links
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+26 GHz,24.549 - 26.453 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Telkom (national),,6x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Transtel (ad hoc),,1x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Internet Solutions (ad hoc),,1x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,WBS (national),,1x 28 MHz FDD,Links PtP & PtMP,pending approval
+,,,MWeb (ad hoc),,1x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,MTN (national),,2x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Vodacom (national & ad hoc)),,3x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Tshwane University of Technology (ad hoc),,2x 28 MHz FDD,Links PtP,Short distance High capacity
+,,,Neotel (national),,1x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Screamer (ad hoc),,1x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+,,,Sentech (national),,2x 28 MHz FDD,Links PtP & PtMP,Short distance High capacity
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+28 GHz,27.0 - 29.5 GHz,Yes. Spectrum is available. No assignments yet,none,,none,LMDS links,no applications received
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+31 GHz,31.0 - 31.8 GHz,Yes. Spectrum is available. No assignments yet,none,,none,LPVS & HAPS,no applications received
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+38 GHz,37.0 - 39.5 GHz,"Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters",Telkom (national),,2x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Internet Solutions (ad hoc),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Mweb (ad hoc),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Sentech (ad hoc),,1x 28 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Eskom (ad hoc),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Mweb (ad hoc),,2x 14 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Transtel (ad hoc),,1x 28 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Vodacom (national),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,MTN (national),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Cell - C (national)_,,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Rosewell Trading (ad hoc),,1x 14 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Screamer (ad hoc),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Tshwane University of Technology (ad hoc),,1x 28 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+,,,Neotel (national),,1x 56 MHz FDD,PtP links,"subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz"
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+60 GHz,57 - 64 GHz,"Yes, whole band available for assignment",Comsol test licence application (Comsol has now withdrawn application due to slow response on regulations and costly spectrum. Has moved testing to Europe),,Channelisation not planned yet. Test assignment=150 MHz,PtP links,Various vendors have shown interest to use the band. Regulations to be put in place.
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
+71-76 GHz // 81-86 GHz,71-76 GHz // 81-86 GHz,"Yes, whole band available for assignment",Impala Platinum application & Neotel application (withdrawn due to cost),,not planned yet,PtP links,Various vendors have shown interest to use the band. Regulations to be put in place. (2x 5 GHz blocks)
+Frequency Band,Frequency Band Size,Availability,Licensee,Assigned Frequencies,Ch Bandwidth assigned,Application,Comment
