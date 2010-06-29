@@ -1,0 +1,3854 @@
+[
+    {
+        "assignments": [
+            {
+                "application": "GSM 900 Mobile", 
+                "availability": {
+                    "bandwidth": 22000000.0, 
+                    "channels": "2x11 MHz FDD"
+                }, 
+                "comment": "E-GSM channels 988 - 1021", 
+                "frequency": {
+                    "bandwidth": 13600000.0, 
+                    "begin": 882700000.0, 
+                    "downlink": {
+                        "begin": 927700000.0, 
+                        "end": 934500000.0
+                    }, 
+                    "end": 934500000.0, 
+                    "uplink": {
+                        "begin": 882700000.0, 
+                        "end": 889500000.0
+                    }
+                }, 
+                "licensee": "Cell - C"
+            }, 
+            {
+                "application": "GSM 900 Mobile", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": ""
+                }, 
+                "comment": "GSM900 channels 72 - 78", 
+                "frequency": {
+                    "bandwidth": 2800000.0, 
+                    "begin": 904300000.0, 
+                    "downlink": {
+                        "begin": 949300000.0, 
+                        "end": 950700000.0
+                    }, 
+                    "end": 950700000.0, 
+                    "uplink": {
+                        "begin": 904300000.0, 
+                        "end": 905700000.0
+                    }
+                }, 
+                "licensee": "Cell - C"
+            }, 
+            {
+                "application": "GSM 900 Mobile", 
+                "availability": {
+                    "bandwidth": 22000000.0, 
+                    "channels": "2x11 MHz FDD"
+                }, 
+                "comment": "GSM900 channels 58 - 69", 
+                "frequency": {
+                    "bandwidth": 4800000.0, 
+                    "begin": 901500000.0, 
+                    "downlink": {
+                        "begin": 946500000.0, 
+                        "end": 948900000.0
+                    }, 
+                    "end": 948900000.0, 
+                    "uplink": {
+                        "begin": 901500000.0, 
+                        "end": 903900000.0
+                    }
+                }, 
+                "licensee": "MTN"
+            }, 
+            {
+                "application": "GSM 900 Mobile", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": ""
+                }, 
+                "comment": "GSM900 channels 81 - 123", 
+                "frequency": {
+                    "bandwidth": 17200000.0, 
+                    "begin": 906100000.0, 
+                    "downlink": {
+                        "begin": 951100000.0, 
+                        "end": 959700000.0
+                    }, 
+                    "end": 959700000.0, 
+                    "uplink": {
+                        "begin": 906100000.0, 
+                        "end": 914700000.0
+                    }
+                }, 
+                "licensee": "MTN"
+            }, 
+            {
+                "application": "GSM 900 Mobile", 
+                "availability": {
+                    "bandwidth": 22000000.0, 
+                    "channels": "2x11 MHz FDD"
+                }, 
+                "comment": "GSM900 channels 1 - 55", 
+                "frequency": {
+                    "bandwidth": 22000000.0, 
+                    "begin": 890100000.0, 
+                    "downlink": {
+                        "begin": 935100000.0, 
+                        "end": 946100000.0
+                    }, 
+                    "end": 946100000.0, 
+                    "uplink": {
+                        "begin": 890100000.0, 
+                        "end": 901100000.0
+                    }
+                }, 
+                "licensee": "Vodacom"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 66000000.0, 
+            "description": "No Spare capacity left"
+        }, 
+        "frequency": {
+            "bandwidth": 80000000.0, 
+            "begin": 880000000.0, 
+            "end": 960000000.0
+        }, 
+        "name": "900 MHz GSM"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Defence Research: Mobile", 
+                "availability": {
+                    "bandwidth": 61600000.000000007, 
+                    "channels": "28x 2.2 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Armscor (ad hoc)"
+            }, 
+            {
+                "application": "Radar", 
+                "availability": {
+                    "bandwidth": 10000000.0, 
+                    "channels": "2x5 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "ATNS (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 126000000.0, 
+                    "channels": "36x3.5 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "DENEL (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "pending approval"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "Ekurhuleni Metro (ad hoc"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 3000000.0, 
+                    "channels": "6x 500 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "2x 3.5 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 1000000.0, 
+                    "channels": "4x 250 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "National Research Foundation (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 2000000.0, 
+                    "channels": "4x 500 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "Nelson Mandela Metro (ad hoc)"
+            }, 
+            {
+                "application": "Mobile Search  Radar", 
+                "availability": {
+                    "bandwidth": 50000000.0, 
+                    "channels": "10x 5 MHz Simplex"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SANDF (national)(simplex radar frequency)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 21000000.0, 
+                    "channels": "12x 1.75 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SANDF (national)"
+            }, 
+            {
+                "application": "Troposcatter links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "53x varying: Bandwidth varying from 0.6 - 0.9 MHz"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SANDF (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 13000000.0, 
+                    "channels": "26x 500 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "SAPS (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "14x 2 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SAPS (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 5000000.0, 
+                    "channels": "10x 500 kHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SAPS (national)"
+            }, 
+            {
+                "application": "Mobile Satellite", 
+                "availability": {
+                    "bandwidth": 40000.0, 
+                    "channels": "2x 20 kHz"
+                }, 
+                "comment": "Inmarsat band", 
+                "frequency": null, 
+                "licensee": "Startrack Communications"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 2000000.0, 
+                    "channels": "2x 1MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Telewave (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18x 1 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 15000000.0, 
+                    "channels": "30x 500 kHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 150000.0, 
+                    "channels": "6x 25 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 1000000.0, 
+                    "channels": "2x 500 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 21000000.0, 
+                    "channels": "14x 1.5 MHz FDD"
+                }, 
+                "comment": "\"Old\" 1.4 GHz band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 1000000.0, 
+                    "channels": "2x 500 kHz FDD"
+                }, 
+                "comment": "\"new\" 1.4 GHz band", 
+                "frequency": null, 
+                "licensee": "X-Strata"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 385790000.0, 
+            "description": "No New assignments on \"old\" plan. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 167000000.0, 
+            "begin": 1350000000.0, 
+            "end": 1517000000.0
+        }, 
+        "name": "1.3 -1.5 GHz shared duplex band with reserved channels"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "destination band for migrating VHF/UHF links. E.g.Alarms", 
+                "availability": {
+                    "bandwidth": 3500000.0, 
+                    "channels": "140 x 25 kHz & 7 x 500 kHz channels available"
+                }, 
+                "comment": "not utilised yet", 
+                "frequency": null, 
+                "licensee": "none"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 3500000.0, 
+            "description": "Yes, simplex radio channels are available. No assignments made"
+        }, 
+        "frequency": {
+            "bandwidth": 8000000.0, 
+            "begin": 1517000000.0, 
+            "end": 1525000000.0
+        }, 
+        "name": "1.5 GHz shared simplex band"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Digital Audio Broadcasting: (Terrestrial & Space) ", 
+                "availability": {
+                    "bandwidth": 5000000.0, 
+                    "channels": "2 x 2.5 MHz simplex"
+                }, 
+                "comment": " Deployment for audio broadcasting", 
+                "frequency": null, 
+                "licensee": "Worldspace (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 5000000.0, 
+            "description": "Yes. One assignment so far"
+        }, 
+        "frequency": {
+            "bandwidth": 40000000.0, 
+            "begin": 1452000000.0, 
+            "downlink": {
+                "begin": 1479500000.0, 
+                "end": 1492000000.0
+            }, 
+            "end": 1492000000.0, 
+            "uplink": {
+                "begin": 1452000000.0, 
+                "end": 1479500000.0
+            }
+        }, 
+        "name": "1.5 GHz TDAB & SDAB only"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": " GSM 1800", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Fully utilised", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": " GSM 1800", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Fully utilised", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": " GSM 1800", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Fully utilised", 
+                "frequency": null, 
+                "licensee": "Cell C (national)"
+            }, 
+            {
+                "application": "Fixed Data", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Unknown utilisation", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }, 
+            {
+                "application": "Fixed Data", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Unknown utilisation", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Fixed Data", 
+                "availability": {
+                    "bandwidth": 24000000.0, 
+                    "channels": "2x 12 MHz FDD"
+                }, 
+                "comment": "Unknown utilisation", 
+                "frequency": null, 
+                "licensee": "WBS (national)"
+            }, 
+            {
+                "application": "Fixed Data", 
+                "availability": {
+                    "bandwidth": 10000000.0, 
+                    "channels": "1x 10 MHz TDD block"
+                }, 
+                "comment": "Internet, iburst", 
+                "frequency": null, 
+                "licensee": "WBS (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 154000000.0, 
+            "description": "No Spare capacity"
+        }, 
+        "frequency": {
+            "bandwidth": 170000000.0, 
+            "begin": 1710000000.0, 
+            "end": 1880000000.0
+        }, 
+        "name": "1.7/1.8 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "DECT", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz TDD"
+                }, 
+                "comment": "Fully utilised", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Cor Dect Broadband", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz TDD"
+                }, 
+                "comment": "Complete details on deployment unavailable", 
+                "frequency": null, 
+                "licensee": "Bokone USAL Limpopo (regional)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 40000000.0, 
+            "description": "No Spare capacity unless sharing study is done with national DECT network"
+        }, 
+        "frequency": {
+            "bandwidth": 20000000.0, 
+            "begin": 1880000000.0, 
+            "end": 1900000000.0
+        }, 
+        "name": "1.9 GHz DECT"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Extended DECT", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz TDD"
+                }, 
+                "comment": "Apparently Fully utilised", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 20000000.0, 
+            "description": "No Spare capacity unless sharing study is done with national DECT network"
+        }, 
+        "frequency": {
+            "bandwidth": 20000000.0, 
+            "begin": 1900000000.0, 
+            "end": 1920000000.0
+        }, 
+        "name": "1.9 GHz Extended DECT"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 9200000.0, 
+                    "channels": "2 x 4.6 MHz simplex"
+                }, 
+                "comment": "Satellite Tracking Links", 
+                "frequency": null, 
+                "licensee": "CSIR (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "2x 3.5 MHz"
+                }, 
+                "comment": "\"Old\" plan (Mining operation)", 
+                "frequency": null, 
+                "licensee": "Richardsbay Minerals (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 21000000.0, 
+                    "channels": "3x 7 MHz "
+                }, 
+                "comment": "\"Old plan\" (Omni operation)", 
+                "frequency": null, 
+                "licensee": "Richardsbay Minerals (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "\"Old 2GHz plan moved from 3G band (due for migration)", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "\"Old 2GHz plan moved from 3G band (due for migration)", 
+                "frequency": null, 
+                "licensee": "SANDF (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"Old 2GHz plan (due for migration)", 
+                "frequency": null, 
+                "licensee": "Telkom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "4x 3.5 MHz FDD"
+                }, 
+                "comment": "\"new\" plan\"", 
+                "frequency": null, 
+                "licensee": "Telkom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"Old 2GHz plan (due for migration)", 
+                "frequency": null, 
+                "licensee": "Telsis (ad hoc) (military)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "4x 3.5 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Mbombela Municipality"
+            }, 
+            {
+                "application": "Downlink", 
+                "availability": {
+                    "bandwidth": 60000000.0, 
+                    "channels": "1x 60 MHz"
+                }, 
+                "comment": "Satellite Links", 
+                "frequency": null, 
+                "licensee": "Sumbandilasat"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 293200000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 170000000.0, 
+            "begin": 2025000000.0, 
+            "downlink": {
+                "begin": 2200000000.0, 
+                "end": 2285000000.0
+            }, 
+            "end": 2285000000.0, 
+            "uplink": {
+                "begin": 2025000000.0, 
+                "end": 2110000000.0
+            }
+        }, 
+        "name": "2.0 GHz FS Band"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 30000000.0, 
+                    "channels": "2x 15MHz FDD"
+                }, 
+                "comment": "3G", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 5000000.0, 
+                    "channels": "1x 5MHz TDD"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 30000000.0, 
+                    "channels": "2x 15MHz FDD"
+                }, 
+                "comment": "3G", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 5000000.0, 
+                    "channels": "1x 5MHz TDD"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "2x 10MHz FDD"
+                }, 
+                "comment": "3G", 
+                "frequency": null, 
+                "licensee": "Cell C (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 5000000.0, 
+                    "channels": "1x 5MHz TDD"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Cell C (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "2x 10MHz FDD"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "3G Mobile/Data", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "2x 10MHz FDD"
+                }, 
+                "comment": "2x non contiguous FDD blocks (2x 5MHz) open for another user or expansion", 
+                "frequency": null, 
+                "licensee": "Spare"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 135000000.0, 
+            "description": "Yes, 2x 10 MHz available pending re-shuffling of the band"
+        }, 
+        "frequency": {
+            "bandwidth": 40000000.0, 
+            "begin": 1900000000.0, 
+            "downlink": {
+                "begin": 2100000000.0, 
+                "end": 2120000000.0
+            }, 
+            "end": 2120000000.0, 
+            "uplink": {
+                "begin": 1900000000.0, 
+                "end": 1920000000.0
+            }
+        }, 
+        "name": "1.9/2.1 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 68000000.0, 
+                    "channels": "34x 2 MHz FDD"
+                }, 
+                "comment": "National backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 2000000.0, 
+                    "channels": "1x2 MHz TDD"
+                }, 
+                "comment": "Military Research", 
+                "frequency": null, 
+                "licensee": "Armscor (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 10000.0, 
+                    "channels": "1x 0.01 MHz TDD"
+                }, 
+                "comment": "Military Research", 
+                "frequency": null, 
+                "licensee": "DENEL (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "4x 3.5 MHz FDD"
+                }, 
+                "comment": "National backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 30000000.0, 
+                    "channels": "1x 30 MHz"
+                }, 
+                "comment": "Spread Spectrum Links", 
+                "frequency": null, 
+                "licensee": "University Western Cape (ad hoc)"
+            }, 
+            {
+                "application": "Outside Broadcasting Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz TDD"
+                }, 
+                "comment": "OB video links at sporting, and other venues", 
+                "frequency": null, 
+                "licensee": "SABC (national)"
+            }, 
+            {
+                "application": "Outside Broadcasting Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz TDD"
+                }, 
+                "comment": "OB video links at sporting, and other venues", 
+                "frequency": null, 
+                "licensee": "Dimension RF (national)"
+            }, 
+            {
+                "application": "Mobile Video", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz TDD"
+                }, 
+                "comment": "Mobile helicopter video links", 
+                "frequency": null, 
+                "licensee": "SAPS (national)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 22000000.0, 
+                    "channels": "1x 22 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Ekurhuleni Metro (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 22000000.0, 
+                    "channels": "1x 22 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Sedibeng District Municipality (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz "
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Highveld Racing Authority (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 16000000.0, 
+                    "channels": "1x 16 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "New Vaal Colliery (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 10500000.0, 
+                    "channels": "1x 10.5 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Bell Equipment Company (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 30700000.0, 
+                    "channels": "1x 30.7 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "City of Durban (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 83500000.0, 
+                    "channels": "1x 83.5 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Kruger Park (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 83500000.0, 
+                    "channels": "1x 83.5 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Pannar Seeds (ad hoc)"
+            }, 
+            {
+                "application": "Spread Spectrum", 
+                "availability": {
+                    "bandwidth": 83500000.0, 
+                    "channels": "1x 83.5 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "President Steyn Mine (ad hoc)"
+            }, 
+            {
+                "application": "Mine Safety", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "Ilali Holdings"
+            }, 
+            {
+                "application": "Marine Safety Buoy", 
+                "availability": {
+                    "bandwidth": 30000000.0, 
+                    "channels": "1x 30 MHz TDD"
+                }, 
+                "comment": "Unknown if licensed", 
+                "frequency": null, 
+                "licensee": "East Coast Assist"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 3500000.0, 
+                    "channels": "1x 3.5 MHz FDD"
+                }, 
+                "comment": "National backhaul links", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 659210000.0, 
+            "description": "No Spare capacity left"
+        }, 
+        "frequency": {
+            "bandwidth": 100000000.0, 
+            "begin": 2300000000.0, 
+            "end": 2400000000.0
+        }, 
+        "name": "2.3/2.4 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 50000000.0, 
+                    "channels": "1x 50 MHz"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": {
+                    "bandwidth": 50000000.0, 
+                    "begin": 2500000000.0, 
+                    "end": 2550000000.0
+                }, 
+                "licensee": "Sentech (national)"
+            }, 
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 15000000.0, 
+                    "channels": "1x 15 MHz"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": {
+                    "bandwidth": 15000000.0, 
+                    "begin": 2550000000.0, 
+                    "end": 2565000000.0
+                }, 
+                "licensee": "WBS (iBurst) (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 65000000.0, 
+            "description": "Yes,125 Mhz available for assignment"
+        }, 
+        "frequency": {
+            "bandwidth": 190000000.0, 
+            "begin": 2500000000.0, 
+            "end": 2690000000.0
+        }, 
+        "name": "2.6 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "1x 14 MHz FDD"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": null, 
+                "licensee": "Sentech (national)"
+            }, 
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }, 
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "1x 14 MHz FDD"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": null, 
+                "licensee": "USAL (regional)"
+            }, 
+            {
+                "application": "Broadband", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "1x 14 MHz FDD"
+                }, 
+                "comment": "Band not finalised", 
+                "frequency": null, 
+                "licensee": "Spare"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 98000000.0, 
+            "description": "Yes, 2x 14 MHz available for assignment"
+        }, 
+        "frequency": {
+            "bandwidth": 200000000.0, 
+            "begin": 3400000000.0, 
+            "end": 3600000000.0
+        }, 
+        "name": "3.5 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 600000000.0, 
+                    "channels": "1x 600 MHz FDD"
+                }, 
+                "comment": "Terrestrial Backhaul as well as C-Band Satellite", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "La Fontaine Restaurant (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "Mc Gregor WC ( ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "Moag JS (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "Molefe TG (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "Scandurra S (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "?"
+                }, 
+                "comment": "Legacy assignment from 1991", 
+                "frequency": null, 
+                "licensee": "University of Cape Town (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 500000.0, 
+                    "channels": "0.5 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Anglo Platinum Management Services (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 582000.0, 
+                    "channels": "0.582 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Barrick Africa (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 2001700.0, 
+                    "channels": "2.0017 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Peoples Republic of China Embassies (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 8000000.0, 
+                    "channels": "8 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Council for Geoscience (ad hoc)"
+            }, 
+            {
+                "application": "Sat Tracking", 
+                "availability": {
+                    "bandwidth": 600000000.0, 
+                    "channels": "600 MHz"
+                }, 
+                "comment": "Assistance to NASA", 
+                "frequency": null, 
+                "licensee": "CSIR (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 624000.0, 
+                    "channels": "0.624 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "CTBTO (ad hoc)"
+            }, 
+            {
+                "application": "Sat downlink", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Globecast SA (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 520000.0, 
+                    "channels": "0.52 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Impala Platinum Holdings (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 380000.0, 
+                    "channels": "0.38 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "JICA (ad hoc)"
+            }, 
+            {
+                "application": "Sat downlink ", 
+                "availability": {
+                    "bandwidth": 3000000.0, 
+                    "channels": "3 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Multichoice (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 3200000.0, 
+                    "channels": "3.2 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "NECSA (ad hoc)"
+            }, 
+            {
+                "application": "VSATs", 
+                "availability": {
+                    "bandwidth": 10299580.0, 
+                    "channels": "10.29958 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Neotel (ad hoc)"
+            }, 
+            {
+                "application": "Sat downlinks", 
+                "availability": {
+                    "bandwidth": 471698500.0, 
+                    "channels": "471.6985 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Orbicom (national)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 2600000.0, 
+                    "channels": "2.6 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SA Trade Mission (ad hoc)"
+            }, 
+            {
+                "application": "Sat downlinks", 
+                "availability": {
+                    "bandwidth": 380000000.0, 
+                    "channels": "380 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 3942200.0, 
+                    "channels": "3.9422 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Transtel (Transnet) (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 275000.0, 
+                    "channels": "0.275 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "UN World Food Program (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 1800000.0, 
+                    "channels": "1.8 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Verizon Business (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 7770000.0, 
+                    "channels": "7.77 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "148.02"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "WBS (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 23000.0, 
+                    "channels": "0.023 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Weather Bureau (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Worldbank ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "2.222"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Worldcom Solutions (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 2124215980.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 600000000.0, 
+            "begin": 3600000000.0, 
+            "end": 4200000000.0
+        }, 
+        "name": "C-Band (satellite, lower \"leg\")"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Outside Broadcasting Links", 
+                "availability": {
+                    "bandwidth": 40000000.0, 
+                    "channels": "4x 10 MHz TDD"
+                }, 
+                "comment": "Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. ", 
+                "frequency": null, 
+                "licensee": "Telemedia (national)"
+            }, 
+            {
+                "application": "Outside Broadcasting Links", 
+                "availability": {
+                    "bandwidth": 50000000.0, 
+                    "channels": "5x 10 MHz TDD"
+                }, 
+                "comment": "Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. ", 
+                "frequency": null, 
+                "licensee": "Airtime SABC (national)"
+            }, 
+            {
+                "application": "Outside Broadcasting Links", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "2x 10 MHz TDD"
+                }, 
+                "comment": "Sporting And News Venues. Reserved for Outside Broadcasting events. Destination band for OB from migration from 3G band. ", 
+                "frequency": null, 
+                "licensee": "MNet (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 110000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 200000000.0, 
+            "begin": 4400000000.0, 
+            "downlink": {
+                "begin": 4690000000.0, 
+                "end": 4800000000.0
+            }, 
+            "end": 4800000000.0, 
+            "uplink": {
+                "begin": 4400000000.0, 
+                "end": 4490000000.0
+            }
+        }, 
+        "name": "4.4 - 5.0 GHz Outside Broadcasting"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "4x 28 MHz FDD"
+                }, 
+                "comment": "Backhaul for Air Defence Network & Monitoring Civil Aviation Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "Backhaul National TETRA Network. Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.", 
+                "frequency": null, 
+                "licensee": "SAPS (ad hoc)"
+            }, 
+            {
+                "application": "Aeronautical Mobile Video", 
+                "availability": {
+                    "bandwidth": 40000000.0, 
+                    "channels": "4x 10 MHz TDD"
+                }, 
+                "comment": "Crime Scene Monitoring. Reserved for Government National Security backhaul links. Destination band for Military and Safety & Security due to clearing of 3G band.", 
+                "frequency": null, 
+                "licensee": "SAPS (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 236000000.0, 
+            "description": "Yes. Spectrum is available to SANDF & SAPS on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 394000000.0, 
+            "begin": 4490000000.0, 
+            "downlink": {
+                "begin": 4800000000.0, 
+                "end": 5000000000.0
+            }, 
+            "end": 5000000000.0, 
+            "uplink": {
+                "begin": 4490000000.0, 
+                "end": 4684000000.0
+            }
+        }, 
+        "name": "4.4 - 5.0 GHz SANDF&SAPS"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "20 MHz TDD"
+                }, 
+                "comment": "5875 - 5895 MHz", 
+                "frequency": null, 
+                "licensee": "WBS (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 500000.0, 
+                    "channels": "0.5 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Anglo Platinum Management Services (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 592000.0, 
+                    "channels": "0.592 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Barrick Africa (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 270000.0, 
+                    "channels": "0.27 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Peoples Republic of China Embassies (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 1000000.0, 
+                    "channels": "1.0 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Council for Geoscience (ad hoc)"
+            }, 
+            {
+                "application": "Sat Tracking", 
+                "availability": {
+                    "bandwidth": 2400000000.0, 
+                    "channels": "2.4 GHz"
+                }, 
+                "comment": "Assistance to NASA", 
+                "frequency": null, 
+                "licensee": "CSIR (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 684000.0, 
+                    "channels": "0.684 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "CTBTO (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 100000.0, 
+                    "channels": "0.1 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Embassy Slovac Republic (ad hoc)"
+            }, 
+            {
+                "application": "Sat uplink", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Globecast SA (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 520000.0, 
+                    "channels": "0.52 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Impala Platinum Holdings (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 30000000.0, 
+                    "channels": "30 MHz"
+                }, 
+                "comment": "PtP", 
+                "frequency": null, 
+                "licensee": "Infovan"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 300000.0, 
+                    "channels": "0.3 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "JICA (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 15000000.0, 
+                    "channels": "15 MHz TDD"
+                }, 
+                "comment": "PtP", 
+                "frequency": null, 
+                "licensee": "Mitsol"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 3000000.0, 
+                    "channels": "3 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Multichoice (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 400000.0, 
+                    "channels": "0.4 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "NECSA (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 10468680.0, 
+                    "channels": "10.46868 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Neotel (ad hoc)"
+            }, 
+            {
+                "application": "Sat uplink", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "501.6985"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Orbicom (national)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 2600000.0, 
+                    "channels": "2.6 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SA Trade Mission (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 380000000.0, 
+                    "channels": "380 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 8020000.0, 
+                    "channels": "8.02 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Sentech (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 575000000.0, 
+                    "channels": "575 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 3965400000.0, 
+                    "channels": "3965.4 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 275000.0, 
+                    "channels": "0.275 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "UN World Food Program (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Urban Brew Studios (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 5200000.0, 
+                    "channels": "5.2 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 4018000.0, 
+                    "channels": "4.018 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "WBS (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 5600000.0, 
+                    "channels": "5.6 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Verizon Business (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 23000.0, 
+                    "channels": "0.023 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Weather Bureau (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Worldbank ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 7473970680.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 875000000.0, 
+            "begin": 5850000000.0, 
+            "end": 6725000000.0
+        }, 
+        "name": "C-Band (satellite, upper \"leg\")"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 237200000.0, 
+                    "channels": "8x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 237200000.0, 
+            "description": "No. Analogue legacy band assigned to Telkom"
+        }, 
+        "frequency": {
+            "bandwidth": 459590000.0, 
+            "begin": 5945200000.0, 
+            "end": 6404790000.0
+        }, 
+        "name": "6.0 GHz lower analogue"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 320000000.0, 
+                    "channels": "16x 20 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 320000000.0, 
+            "description": "No. Analogue legacy band assigned to Telkom"
+        }, 
+        "frequency": {
+            "bandwidth": 640000000.0, 
+            "begin": 6440000000.0, 
+            "end": 7080000000.0
+        }, 
+        "name": "6.0 GHz upper interleaved"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 320000000.0, 
+                    "channels": "8x 40 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 320000000.0, 
+            "description": "No. Analogue legacy band assigned to Telkom"
+        }, 
+        "frequency": {
+            "bandwidth": 620000000.0, 
+            "begin": 6460000000.0, 
+            "end": 7080000000.0
+        }, 
+        "name": "6.0 GHz upper normal"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "4x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Karsten Farms (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Platitel (USAL) (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Neotel (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 308000000.0, 
+                    "channels": "11x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telfree (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Richardsbay Minerals (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 224000000.0, 
+                    "channels": "8x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Emid"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Screamer Telecommunications"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Sentech (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Weather Bureau (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SABC (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Dimension RF (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 1176000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 308000000.0, 
+            "begin": 7121000000.0, 
+            "end": 7429000000.0
+        }, 
+        "name": "7.0 GHz lower"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 139944000.00000003, 
+                    "channels": "6x 23.324 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 50000000.0, 
+                    "channels": "2x 25 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Weather Bureau (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 189944000.00000003, 
+            "description": "No. Analogue legacy band assigned to Telkom. To be vacated as operational old analogue equipment is replaced with normal digital lower & upper 7 GHz"
+        }, 
+        "frequency": {
+            "bandwidth": 268234000.0, 
+            "begin": 7435048000.0, 
+            "end": 7703282000.0
+        }, 
+        "name": "7.0 GHz \"old\" analogue"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 140000000.0, 
+                    "channels": "5x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 280000000.0, 
+                    "channels": "10x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Amatole (USAL) (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Stellenbosch University (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 560000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 280000000.0, 
+            "begin": 7457000000.0, 
+            "end": 7737000000.0
+        }, 
+        "name": "7.0 GHz upper"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 59300000.0, 
+                    "channels": "2x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 118600000.0, 
+                    "channels": "4x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 59300000.0, 
+                    "channels": "2x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Broadband Infraco"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 118600000.0, 
+                    "channels": "4x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 59300000.0, 
+                    "channels": "2x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 29650000.0, 
+                    "channels": "1x 29.65 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SAPS (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 444750000.0, 
+            "description": "No. Analogue legacy band assigned to Telkom, SAPS, SANDF & Transtel."
+        }, 
+        "frequency": {
+            "bandwidth": 518870000.0, 
+            "begin": 7747700000.0, 
+            "end": 8266570000.0
+        }, 
+        "name": "8.0 GHz lower analogue"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "2x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "City of Cape Town (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz"
+                }, 
+                "comment": "assigned 1975 unknown use", 
+                "frequency": null, 
+                "licensee": "CSIR (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 42000000.0, 
+                    "channels": "6x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 20000000.0, 
+                    "channels": "1x 20 MHz"
+                }, 
+                "comment": "assigned 1975 unknown use", 
+                "frequency": null, 
+                "licensee": "N.I.T.R.(ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 12000000.0, 
+                    "channels": "1x 12 MHz "
+                }, 
+                "comment": "assigned 1978 unknown use", 
+                "frequency": null, 
+                "licensee": "Phalabora Mining Company (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Richardsbay Minerals (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 21000000.0, 
+                    "channels": "3x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 21000000.0, 
+                    "channels": "3x 7 MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SAPS (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "4x & MHz FDD"
+                }, 
+                "comment": "Medium capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 164000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 203000000.00000095, 
+            "begin": 8286000000.0, 
+            "end": 8489000000.000001
+        }, 
+        "name": "8.0 GHz upper"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "PtP & PtMP, band is subdivisible into smaller channels", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "PtP & PtMP, band is subdivisible into smaller channels", 
+                "frequency": null, 
+                "licensee": "Cell C (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "PtP & PtMP, band is subdivisible into smaller channels", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "PtP & PtMP, band is subdivisible into smaller channels", 
+                "frequency": null, 
+                "licensee": "Sentech (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "PtP & PtMP, band is subdivisible into smaller channels", 
+                "frequency": null, 
+                "licensee": "WBS (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 140000000.0, 
+            "description": "No. All assigned"
+        }, 
+        "frequency": {
+            "bandwidth": 300000000.0, 
+            "begin": 10150000000.0, 
+            "downlink": {
+                "begin": 10500000000.0, 
+                "end": 10650000000.0
+            }, 
+            "end": 10650000000.0, 
+            "uplink": {
+                "begin": 10150000000.0, 
+                "end": 10300000000.0
+            }
+        }, 
+        "name": "10 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": "none", 
+                "frequency": null, 
+                "licensee": "Africa Business News CNBC (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 1370000.0, 
+                    "channels": "1.37 MHz"
+                }, 
+                "comment": " ", 
+                "frequency": null, 
+                "licensee": "African Bank (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 6000000.0, 
+                    "channels": "6 MHz"
+                }, 
+                "comment": " ", 
+                "frequency": null, 
+                "licensee": "Al Jazeera Network (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "APTN (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": " ", 
+                "frequency": null, 
+                "licensee": "British Telecomms (ad hoc)"
+            }, 
+            {
+                "application": "Feeder link", 
+                "availability": {
+                    "bandwidth": 240000000.0, 
+                    "channels": "8x 30 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Citrine Communications (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 18000000.0, 
+                    "channels": "18 MHz"
+                }, 
+                "comment": " ", 
+                "frequency": null, 
+                "licensee": "CNN (ad hoc)"
+            }, 
+            {
+                "application": "Telemetry Tracking & Command", 
+                "availability": {
+                    "bandwidth": 6200000.0, 
+                    "channels": "6.2 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "CSIR (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Dimension Television (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "unknown"
+                }, 
+                "comment": " ", 
+                "frequency": null, 
+                "licensee": "Embassy of Angola (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 392000.0, 
+                    "channels": "0.392 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 128000.0, 
+                    "channels": "0.128 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Exficor SA (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 562695000.0, 
+                    "channels": "562.695 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Globecast South Africa (ad hoc)"
+            }, 
+            {
+                "application": "SNG", 
+                "availability": {
+                    "bandwidth": 2150400.0, 
+                    "channels": "2.1504 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Intelsat (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "112 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Mentor Facility (ad hoc)"
+            }, 
+            {
+                "application": "Feeder links", 
+                "availability": {
+                    "bandwidth": 1465120000.0, 
+                    "channels": "1465.12 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Multichoice (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 31044960.0, 
+                    "channels": "31.04496 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Neotel (ad hoc)"
+            }, 
+            {
+                "application": "SNG", 
+                "availability": {
+                    "bandwidth": 9000000.0, 
+                    "channels": "9 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "NH van der Westhuizen (ad hoc)"
+            }, 
+            {
+                "application": "Feeder links", 
+                "availability": {
+                    "bandwidth": 108000000.0, 
+                    "channels": "108 MHz"
+                }, 
+                "comment": "   ", 
+                "frequency": null, 
+                "licensee": "On Digital Media (ad hoc)"
+            }, 
+            {
+                "application": "Feeder links", 
+                "availability": {
+                    "bandwidth": 476000000.0, 
+                    "channels": "476 MHz"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Orbicom (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 4400000.0, 
+                    "channels": "4.4 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "Purple Turtle (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 800000.0, 
+                    "channels": "0.8 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SAAB Grintek (ad hoc)"
+            }, 
+            {
+                "application": "SNG/ENG/VSAT", 
+                "availability": {
+                    "bandwidth": 60000000.0, 
+                    "channels": "60 MHz"
+                }, 
+                "comment": "", 
+                "frequency": null, 
+                "licensee": "SABC (ad hoc)"
+            }, 
+            {
+                "application": "?", 
+                "availability": {
+                    "bandwidth": 360000000.0, 
+                    "channels": "360 MHz"
+                }, 
+                "comment": "    ", 
+                "frequency": null, 
+                "licensee": "Scandurra S (ad hoc)"
+            }, 
+            {
+                "application": "Feeder Links", 
+                "availability": {
+                    "bandwidth": 532700000.00000006, 
+                    "channels": "532.7 MHz"
+                }, 
+                "comment": "    ", 
+                "frequency": null, 
+                "licensee": "Sentech (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": 6620000.0, 
+                    "channels": "6.62 MHz"
+                }, 
+                "comment": "      ", 
+                "frequency": null, 
+                "licensee": "Siemens (ad hoc)"
+            }, 
+            {
+                "application": "VSAT", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "varying BW"
+                }, 
+                "comment": "  ", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Feeder links", 
+                "availability": {
+                    "bandwidth": 684000000.0, 
+                    "channels": "684 MHz"
+                }, 
+                "comment": "   ", 
+                "frequency": null, 
+                "licensee": "Telemedia (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 4731620360.0, 
+            "description": "Yes. Spectrum is available for satellite services."
+        }, 
+        "frequency": {
+            "bandwidth": 3800000000.0, 
+            "begin": 10700000000.0, 
+            "end": 14500000000.0
+        }, 
+        "name": "10.7 - 15.0 GHz Ku Band"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 480000000.0, 
+                    "channels": "12X 40 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 80000000.0, 
+                    "channels": "2x 40 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 560000000.0, 
+            "description": "Yes. Provided new links can be radio co-ordinated with terrestrial & satellite services"
+        }, 
+        "frequency": {
+            "bandwidth": 1000000000.0, 
+            "begin": 10700000000.0, 
+            "end": 11700000000.0
+        }, 
+        "name": "11 GHz FS band"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 224000000.0, 
+                    "channels": "8x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Broadband Infraco (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Stellenbosch University (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Amatole Telecomms (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Liberty Lane (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Pretoria City Council (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SABC (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 140000000.0, 
+                    "channels": "5x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Sentech (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 140000000.0, 
+                    "channels": "5x 28 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 896000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 500000000.0, 
+            "begin": 12750000000.0, 
+            "end": 13250000000.0
+        }, 
+        "name": "13 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "\"Old & new\" plan", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "or 8x14 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "or 16x 7 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "WBS (national & ad hoc))"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "MTN (national & ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or 2x 14 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or 4x 7 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or2x 14 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or 4x 7 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Transtel (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or2x 14 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Transtel (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "or 4x 7 MHz FDD"
+                }, 
+                "comment": "\"", 
+                "frequency": null, 
+                "licensee": "Transtel (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Tshwane University of Technology (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Cell-C (national)"
+            }, 
+            {
+                "application": "Links pending", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Mweb (ad hoc)"
+            }, 
+            {
+                "application": "Links pending", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "4x 7 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "SASOL (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "2x 7 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "4x 14 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "City of Johannesburg (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "2x 7 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Rustenburg Platinum Mines (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "\"new\" plan", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }, 
+            {
+                "application": "OB", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "\"Old \" plan", 
+                "frequency": null, 
+                "licensee": "Telemedia (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 896000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 850000000.0, 
+            "begin": 14500000000.0, 
+            "end": 15350000000.0
+        }, 
+        "name": "15 GHz FS shared band (including reserved channels)"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 935000000.0, 
+                    "channels": "17x 55 MHz FDD or 34x 27.5 MHz FDD or 131x 7.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 110000000.0, 
+                    "channels": "4x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Vodacom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 27500000.0, 
+                    "channels": "1x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Nelson Mandela Metro (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 27500000.0, 
+                    "channels": "1x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Joburg Metro (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 27500000.0, 
+                    "channels": "1x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Ekurhuleni Metro (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 7500000.0, 
+                    "channels": "1x 7.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Boksburg City Council (ad hoc)"
+            }, 
+            {
+                "application": "Sat feeder link", 
+                "availability": {
+                    "bandwidth": 66000000.0, 
+                    "channels": "2x 33 MHz "
+                }, 
+                "comment": "Uplink", 
+                "frequency": null, 
+                "licensee": "Orbicom (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 27500000.0, 
+                    "channels": "1x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 55000000.0, 
+                    "channels": "2x 27.5 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Anglo Operations Limited (ad hoc)"
+            }, 
+            {
+                "application": "Links", 
+                "availability": {
+                    "bandwidth": 110000000.0, 
+                    "channels": "2x 55 MHz FDD"
+                }, 
+                "comment": "High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "De Beers (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 1393500000.0, 
+            "description": "Yes. National legacy band for Telkom. Although difficult, spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 2000000000.0, 
+            "begin": 17700000000.0, 
+            "end": 19700000000.0
+        }, 
+        "name": "18 GHz "
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "Subband 1a &1b"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Transtel (national)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "Subband 2, 3, 7, & 9"
+                }, 
+                "comment": "Medium & High capacity backhaul links (subdivided in 10x subbands)", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 3500000.0, 
+                    "channels": "1x 3.5 MHz FDD"
+                }, 
+                "comment": "Low, capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "ATNS (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "Subband 4 & 8"
+                }, 
+                "comment": "low, Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Eskom (national & ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Telewave (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 3500000.0, 
+                    "channels": "1x 3.5 MHz FDD & 1x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Vaalreefs (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Iscor (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 42000000.0, 
+                    "channels": "6x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Richardsbay Minerals (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Boksburg City Council (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MWeb (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Rand Water (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "1x 14 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "BMW of SA (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Pretoria City Council (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD & 1x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SAPS (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "2x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SASOL (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 7000000.0, 
+                    "channels": "1x 7 MHz FDD & 1x 14 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "City of Cape Town (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Amatole Telecomms (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Highveld Racing (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD or 9x 7 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "SANDF (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "MTN (ad hoc)"
+            }, 
+            {
+                "application": "Links Ptp", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Medium & High capacity backhaul links", 
+                "frequency": null, 
+                "licensee": "Teleservice (ad hoc)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 413000000.0, 
+            "description": "Yes. Some spectrum is legacy exclusive, but spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 2400000000.0, 
+            "begin": 21200000000.0, 
+            "end": 23600000000.0
+        }, 
+        "name": "23 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 168000000.0, 
+                    "channels": "6x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Internet Solutions (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "pending approval", 
+                "frequency": null, 
+                "licensee": "WBS (national)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "MWeb (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 84000000.0, 
+                    "channels": "3x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Vodacom (national & ad hoc))"
+            }, 
+            {
+                "application": "Links PtP", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Tshwane University of Technology (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Screamer (ad hoc)"
+            }, 
+            {
+                "application": "Links PtP & PtMP", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "2x 28 MHz FDD"
+                }, 
+                "comment": "Short distance High capacity", 
+                "frequency": null, 
+                "licensee": "Sentech (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 588000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 1904000000.0, 
+            "begin": 24549000000.0, 
+            "end": 26453000000.0
+        }, 
+        "name": "26 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "LMDS links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "none"
+                }, 
+                "comment": "no applications received", 
+                "frequency": null, 
+                "licensee": "none"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 0, 
+            "description": "Yes. Spectrum is available. No assignments yet"
+        }, 
+        "frequency": {
+            "bandwidth": 2500000000.0, 
+            "begin": 27000000000.0, 
+            "end": 29500000000.0
+        }, 
+        "name": "28 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "LPVS & HAPS", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "none"
+                }, 
+                "comment": "no applications received", 
+                "frequency": null, 
+                "licensee": "none"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 0, 
+            "description": "Yes. Spectrum is available. No assignments yet"
+        }, 
+        "frequency": {
+            "bandwidth": 800000000.0, 
+            "begin": 31000000000.0, 
+            "end": 31800000000.0
+        }, 
+        "name": "31 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 112000000.0, 
+                    "channels": "2x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Telkom (national)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Internet Solutions (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Mweb (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Sentech (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Eskom (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "2x 14 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Mweb (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Transtel (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Vodacom (national)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "MTN (national)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Cell - C (national)_"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 14000000.0, 
+                    "channels": "1x 14 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Rosewell Trading (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Screamer (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 28000000.0, 
+                    "channels": "1x 28 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Tshwane University of Technology (ad hoc)"
+            }, 
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": 56000000.0, 
+                    "channels": "1x 56 MHz FDD"
+                }, 
+                "comment": "subdivisible into 28 MHz, 14 MHz 7 MHz & 3.5 MHz", 
+                "frequency": null, 
+                "licensee": "Neotel (national)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 686000000.0, 
+            "description": "Yes. Spectrum is available on a radio co-ordinated basis, all  depending on the area or location of a link, the network layout and other technical parameters"
+        }, 
+        "frequency": {
+            "bandwidth": 2500000000.0, 
+            "begin": 37000000000.0, 
+            "end": 39500000000.0
+        }, 
+        "name": "38 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "Channelisation not planned yet. Test assignment=150 MHz"
+                }, 
+                "comment": "Various vendors have shown interest to use the band. Regulations to be put in place.", 
+                "frequency": null, 
+                "licensee": "Comsol test licence application (Comsol has now withdrawn application due to slow response on regulations and costly spectrum. Has moved testing to Europe)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 0, 
+            "description": "Yes, whole band available for assignment"
+        }, 
+        "frequency": {
+            "bandwidth": 7000000000.0, 
+            "begin": 57000000000.0, 
+            "end": 64000000000.0
+        }, 
+        "name": "60 GHz"
+    }, 
+    {
+        "assignments": [
+            {
+                "application": "PtP links", 
+                "availability": {
+                    "bandwidth": "?", 
+                    "channels": "not planned yet"
+                }, 
+                "comment": "Various vendors have shown interest to use the band. Regulations to be put in place. (2x 5 GHz blocks)", 
+                "frequency": null, 
+                "licensee": "Impala Platinum application & Neotel application (withdrawn due to cost)"
+            }
+        ], 
+        "availability": {
+            "bandwidth": 0, 
+            "description": "Yes, whole band available for assignment"
+        }, 
+        "frequency": {
+            "bandwidth": 10000000000.0, 
+            "begin": 71000000000.0, 
+            "downlink": {
+                "begin": 81000000000.0, 
+                "end": 86000000000.0
+            }, 
+            "end": 86000000000.0, 
+            "uplink": {
+                "begin": 71000000000.0, 
+                "end": 76000000000.0
+            }
+        }, 
+        "name": "71-76 GHz // 81-86 GHz"
+    }
+]
