@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>great libre spectropedia for glorious african spectrum transparency lobby!</title>
+    <link rel="stylesheet" href="style/default.css" type="text/css">
+    <script type="text/javascript" src="ext/jquery.js"></script>
+    <script type="text/javascript" src="ext/jquery.overscroll.js"></script> <!-- modified version of: http://azoffdesign.com/plugins/js/overscroll -->
+    <script type="text/javascript" src="spectropedia.js"></script>
+    <script type="text/javascript">  //<![CDATA[    
+      $(document).ready(function() {
+
+        // disable text selection
+        $(document).click(function() {
+            if (document.selection && document.selection.empty) {
+              document.selection.empty() ;
+            } else if (window.getSelection) {
+              var sel = window.getSelection();
+              if (sel && sel.removeAllRanges) sel.removeAllRanges() ;
+            }
+          });
+
+        // configure spectrum control
+        var thirtygig = 30.0 * Math.pow(10.0, 9);
+        var overview = {
+          intervals : function()  { return 150; },
+          scale     : function(i) { return 300.0 * Math.pow(10.0, i * 10.0 / overview.intervals()); },
+          width     : function()  { return 200; },
+        };
+        var detail = {
+          intervals : function()  { return 600; },
+          scale     : function(i) { return 300.0 * Math.pow(10.0, i * 10.0 / detail.intervals()); },
+          width     : function()  { return 200; },
+        };
+
+        // construct spectrum control
+        range("overview", overview.intervals(), overview.width(), overview.scale);
+        range("detail",   detail.intervals(),   detail.width(),   detail.scale);
+        var bg_width = $("#overview").width() * ($("#overview-scale").width() / $("#detail-scale").width());
+        var bg_left  = ($("#overview").width() - bg_width) / 2.0;
+        /*$("#overview").prepend("<span class='window' style='" + 
+                               "left: "  + bg_left  + "px; "  + 
+                               "width: " + bg_width + "px;'></span>");*/
+        $("#overview").prepend("<span class='mask' style='" + 
+                               "left: "  + 0  + "px; "  + 
+                               "width: " + bg_left + "px;'></span>");
+        $("#overview").prepend("<span class='mask' style='" + 
+                               "left: "  + (bg_left + bg_width)  + "px; "  + 
+                               "width: " + bg_left + "px;'></span>");
+
+        $("#overview-container").overscroll(true);
+        $("#detail-container").overscroll(true);
+        $("#details-control").overscroll();
+
+        // register scroll handlers
+        var scroller = {
+          "#overview-container" : make_scroll_handler("#detail-container"), 
+          "#detail-container"   : make_scroll_handler("#overview-container"),
+        };
+        function make_scroll_handler(other_id) {
+          return function(event) {
+            var other = $(other_id)[0];
+            var position = other.scrollWidth * (this.scrollLeft / this.scrollWidth);
+            var offset  = ($(this).width() - ($(this).width() * (other.scrollWidth / this.scrollWidth))) / 2.0;
+            other.scrollLeft = position - offset;
+          }
+        };
+        $("#overview-container").bind("mouseenter", function() {
+            $("#detail-container").unbind("scroll");
+            $("#overview-container").bind("scroll", scroller["#overview-container"]);
+          });
+        $("#detail-container").bind("mouseenter", function() {
+            $("#overview-container").unbind("scroll");
+            $("#detail-container").bind("scroll", scroller["#detail-container"]);
+          });
+
+        // load up some data
+        $.getJSON("data/za.json", function(allocations) {
+            var i = 0;
+            allocations = rank_allocations(allocations); // figure out who is secondary / tertiary etc.
+            for (var allocation in allocations) {
+              allocation = allocations[allocation];
+              var size = 1.0 / (Math.pow(2, allocation.rank-1));
+              if (allocation.frequency.uplink && allocation.frequency.downlink) {
+                var frequency = allocation.frequency;
+                allocation.label = " (uplink)";
+                allocation.frequency = frequency.uplink;
+                allocation.frequency.bandwidth = frequency.bandwidth;
+                add_allocation("#overview", allocation, i, size);
+                add_allocation("#detail",   allocation, i, size);
+                allocation.label = " (downlink)";
+                allocation.frequency = frequency.downlink;
+                allocation.frequency.bandwidth = frequency.bandwidth;
+                add_allocation("#overview", allocation, i, size);
+                add_allocation("#detail",   allocation, i, size);
+                allocation.frequency = frequency;
+              } else {
+                add_allocation("#overview", allocation, i, size);
+                add_allocation("#detail",   allocation, i, size);
+              }
+              var capacity = Math.floor(allocation.availability.bandwidth / allocation.frequency.bandwidth * 100.0);
+              console.log(allocation.name + " - " + capacity + "%");
+              i++;
+            }
+          });
+
+        // Go to a sane starting position
+        $("#detail-container").unbind("scroll");
+        $("#overview-container").bind("scroll", scroller["#overview-container"]);
+        $("#overview-container").scrollLeft(hz_to_px(600000000, "#overview-container"));
+      });
+     //]]></script>
+  </head>
+  <body>
+    <center>
+      <div class="spectrum" id="detail">
+        <div id="details-control"></div>
+        <div class="skin" style="background: url(style/cutout-1a.png); top    :   0px; left  :   0px; width :  30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-2.png);  top    :  30px; left  :   0px; width :  30px; bottom : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-3.png);  bottom :   0px; left  :   0px; width :  30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-4.png);  bottom :   0px; left  :  30px; right :  30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-5.png);  bottom :   0px; right :   0px; width :  30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-6.png);  top    : 180px; right :   0px; width :  30px; bottom : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-7a.png); top    :   0px; right :   0px; width :  30px; height : 180px;" ></div>
+        <div class="skin" style="background: url(style/cutout-7b.png); top    :   0px; right :  30px; width : 290px; height : 180px;" ></div>
+        <div class="skin" style="background: url(style/cutout-7c.png); top    :   0px; right : 320px; width :  60px; height : 180px;" ></div>
+        <div class="skin" style="background: url(style/cutout-8a.png); top    :   0px; left  :  30px; right : 380px; height : 30px;" ></div>
+      </div>
+      <div class="spectrum" id="overview"> 
+        <!-- div id="zoom-control"></div -->
+        <div class="skin" style="background: url(style/cutout-1.png); top    :   0px; left  :  0px; width : 30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-2.png); top    :  30px; left  :  0px; width : 30px; bottom : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-3.png); bottom :   0px; left  :  0px; width : 30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-4.png); bottom :   0px; left  : 30px; right : 30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-5.png); bottom :   0px; right :  0px; width : 30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-6.png); top    :  30px; right :  0px; width : 30px; bottom : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-7.png); top    :   0px; right :  0px; width : 30px; height : 30px;" ></div>
+        <div class="skin" style="background: url(style/cutout-8.png); top    :   0px; left  : 30px; right : 30px; height : 30px;" ></div>
+      </div>
+    </center>
+  </body>
+</html>
